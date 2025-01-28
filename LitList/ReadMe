@@ -1,0 +1,8 @@
+LitList is a book tracking web app coded with ASP.NET Core and Razor Pages.
+
+Features include:
+- adding/removing books to the database
+- updating user profiles
+- searching and sorting books available
+
+Check out the repo link to see the full project files, or the screenshots folder to see a quick overview!
