@@ -17,5 +17,5 @@ I am a senior studying Computer Information Systems at West Texas A&M University
 
 ## Contact
 Feel free to connect with me for collaboration or discussions:
-- **LinkedIn:** (www.linkedin.com/in/caitlyn-hunter-information-systems)
+- **LinkedIn:** www.linkedin.com/in/caitlyn-hunter-information-systems
 
