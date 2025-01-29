@@ -10,8 +10,8 @@ I am a senior studying Computer Information Systems at West Texas A&M University
 ### Mental Healthcare Database
 - **Description:** Designed and implemented a structured database to manage patient records and healthcare provider interactions.
 - **Tech Stack:** SQL
-- 
-### Full-Stack Book Tracking Web App
+  
+### LitList
 - **Description:** Built a web application to track books and connect with other users.
 - **Tech Stack:** ASP.NET Core, C#, Razor Pages
 
